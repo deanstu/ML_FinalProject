@@ -1,0 +1,7 @@
+# R files
+.Rhistory
+.Rdata
+
+# Jupyter
+.ipynb_checkpoints
+
