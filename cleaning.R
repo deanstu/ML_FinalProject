@@ -1,3 +1,4 @@
+# updated 10/28
 data <- read.csv('data/recipeData.csv')
 data = subset(data, select = -c(URL, PrimingAmount, PrimingMethod, PrimaryTemp, PitchRate))
 styles <- read.csv('data/styleData.csv')
