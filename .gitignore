@@ -5,3 +5,5 @@
 # Jupyter
 .ipynb_checkpoints
 
+# folder of images
+/figs
